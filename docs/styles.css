@@ -171,7 +171,6 @@ main {
   background: var(--white);
   border-radius: 10px;
   border: 1px solid var(--border);
-  box-shadow: 0 2px 16px rgba(22, 68, 206, 0.08);
 }
 
 table {
