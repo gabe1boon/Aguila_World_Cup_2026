@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:41:36Z",
+  "updated_at": "2026-06-13T19:46:20Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-13T19:00:00Z",
-      "home_team": "Qatar",
-      "away_team": "Switzerland",
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-13T22:00:00Z",
       "home_team": "Brazil",
@@ -519,6 +509,16 @@
       "away_group": "C",
       "venue": "BMO Field",
       "city": "Toronto",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T00:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Cura\u00e7ao",
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "round": "Group Stage - 2"
     }
   ],
