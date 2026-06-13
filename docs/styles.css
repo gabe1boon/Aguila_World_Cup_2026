@@ -181,7 +181,7 @@ table {
 }
 
 thead th {
-  background: #d3d5d5;
+  background: #545454;
   color: #ff8403;
   padding: 0.7rem 0.6rem;
   font-size: 0.7rem;
@@ -198,12 +198,12 @@ thead th.sortable {
 }
 
 thead th.sortable:hover {
-  background: #c0c2c2;
+  background: #6a6a6a;
   color: #ff8403;
 }
 
 thead th.active {
-  background: #b5b7b7;
+  background: #3d3d3d;
   color: #ff8403;
 }
 
