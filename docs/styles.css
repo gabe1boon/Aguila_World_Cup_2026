@@ -62,9 +62,8 @@ header::before {
 }
 
 .logo {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
+  max-width: 100px;
+  height: auto;
   flex-shrink: 0;
   box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.25), 0 4px 14px rgba(0, 0, 0, 0.3);
 }
@@ -555,7 +554,6 @@ td.ub { color: #27AE60; font-weight: 700; }
 /* ── Logo size: larger on desktop ── */
 @media (min-width: 541px) {
   .logo {
-    width: 47px;
-    height: 47px;
+    max-width: 120px;
   }
 }
