@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T21:22:31Z",
+  "updated_at": "2026-06-13T22:38:51Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-13T22:00:00Z",
-      "home_team": "Brazil",
-      "away_team": "Morocco",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-14T01:00:00Z",
       "home_team": "Haiti",
@@ -519,6 +509,16 @@
       "away_group": "D",
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T04:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "home_group": "C",
+      "away_group": "B",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
       "round": "Group Stage - 2"
     }
   ],
