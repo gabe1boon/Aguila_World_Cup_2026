@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T00:15:40Z",
+  "updated_at": "2026-06-14T05:17:26Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-14T01:00:00Z",
-      "home_team": "Haiti",
-      "away_team": "Scotland",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 1"
-    },
-    {
-      "date": "2026-06-14T04:00:00Z",
-      "home_team": "Australia",
-      "away_team": "T\u00fcrkiye",
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-14T17:00:00Z",
       "home_team": "Germany",
@@ -519,6 +499,26 @@
       "away_group": "B",
       "venue": "Estadio BBVA",
       "city": "Monterrey",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T16:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T19:00:00Z",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
       "round": "Group Stage - 2"
     }
   ],
