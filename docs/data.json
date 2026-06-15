@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-14T22:44:50Z",
+  "updated_at": "2026-06-15T00:19:56Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
       "team": "Ecuador",
       "team_id": 2382,
-      "next_match_utc": "2026-06-14T23:00:00Z",
-      "next_match_vs": "Ivory Coast",
+      "next_match_utc": "2026-06-21T00:00:00Z",
+      "next_match_vs": "Cura\u00e7ao",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-14T23:00:00Z",
-      "home_team": "Ivory Coast",
-      "away_team": "Ecuador",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-15T02:00:00Z",
       "home_team": "Sweden",
@@ -519,6 +509,16 @@
       "away_group": "C",
       "venue": "BC Place",
       "city": "Vancouver",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-22T17:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
       "round": "Group Stage - 2"
     }
   ],
