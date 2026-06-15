@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T21:16:29Z",
+  "updated_at": "2026-06-15T23:19:54Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-15T22:00:00Z",
-      "home_team": "Saudi Arabia",
-      "away_team": "Uruguay",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-16T01:00:00Z",
       "home_team": "Iran",
@@ -519,6 +509,16 @@
       "away_group": "D",
       "venue": "Levi's Stadium",
       "city": "San Francisco Bay Area",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-23T17:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "home_group": "A",
+      "away_group": "D",
+      "venue": "NRG Stadium",
+      "city": "Houston",
       "round": "Group Stage - 2"
     }
   ],
