@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-16T23:40:36Z",
+  "updated_at": "2026-06-17T04:56:39Z",
   "leaderboard": [
     {
       "colleague": "Mark",
       "team": "Austria",
       "team_id": 775,
-      "next_match_utc": "2026-06-17T04:00:00Z",
-      "next_match_vs": "Jordan",
+      "next_match_utc": "2026-06-22T17:00:00Z",
+      "next_match_vs": "Argentina",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-17T01:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Algeria",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Group Stage - 1"
-    },
-    {
-      "date": "2026-06-17T04:00:00Z",
-      "home_team": "Austria",
-      "away_team": "Jordan",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-17T17:00:00Z",
       "home_team": "Portugal",
@@ -520,6 +500,26 @@
       "venue": "Estadio Akron",
       "city": "Guadalajara",
       "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-24T19:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-24T19:00:00Z",
+      "home_team": "Bosnia & Herzegovina",
+      "away_team": "Qatar",
+      "home_group": "D",
+      "away_group": "D",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "round": "Group Stage - 3"
     }
   ],
   "fifa_groups": {
