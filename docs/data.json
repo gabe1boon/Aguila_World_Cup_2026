@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T00:11:52Z",
+  "updated_at": "2026-06-19T05:35:39Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-19T01:00:00Z",
-      "home_team": "Mexico",
-      "away_team": "South Korea",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "Estadio Akron",
-      "city": "Guadalajara",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-19T19:00:00Z",
       "home_team": "USA",
@@ -519,6 +509,16 @@
       "away_group": "B",
       "venue": "AT&T Stadium",
       "city": "Dallas",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T23:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "round": "Group Stage - 3"
     }
   ],
