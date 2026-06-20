@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-20",
+  "captured_at": "2026-06-20T08:03:36Z",
+  "leaderboard": [
+    {
+      "colleague": "Mark",
+      "team": "Austria",
+      "team_id": 775,
+      "next_match_utc": "2026-06-22T17:00:00Z",
+      "next_match_vs": "Argentina",
+      "points": 5,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 3,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "rank": 1
+    },
+    {
+      "colleague": "Gabe",
+      "team": "Ecuador",
+      "team_id": 2382,
+      "next_match_utc": "2026-06-21T00:00:00Z",
+      "next_match_vs": "Cura\u00e7ao",
+      "points": -1,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "rank": 2
+    }
+  ]
+}
