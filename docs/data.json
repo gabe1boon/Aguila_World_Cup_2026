@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T15:07:38Z",
+  "updated_at": "2026-06-20T17:05:39Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-20T17:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Sweden",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-20T20:00:00Z",
       "home_team": "Germany",
@@ -519,6 +509,16 @@
       "away_group": "A",
       "venue": "Gillette Stadium",
       "city": "Boston",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T00:00:00Z",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
       "round": "Group Stage - 3"
     }
   ],
