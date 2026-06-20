@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T23:39:06Z",
+  "updated_at": "2026-06-20T04:19:58Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-20T00:30:00Z",
-      "home_team": "Brazil",
-      "away_team": "Haiti",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "round": "Group Stage - 2"
-    },
-    {
-      "date": "2026-06-20T03:00:00Z",
-      "home_team": "T\u00fcrkiye",
-      "away_team": "Paraguay",
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-20T17:00:00Z",
       "home_team": "Netherlands",
@@ -519,6 +499,26 @@
       "away_group": "C",
       "venue": "Levi's Stadium",
       "city": "San Francisco Bay Area",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-26T19:00:00Z",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "home_group": "B",
+      "away_group": "C",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-26T19:00:00Z",
+      "home_team": "Norway",
+      "away_team": "France",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
       "round": "Group Stage - 3"
     }
   ],
