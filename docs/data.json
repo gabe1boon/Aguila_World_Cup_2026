@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T23:52:51Z",
+  "updated_at": "2026-06-22T05:12:25Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-22T01:00:00Z",
-      "home_team": "New Zealand",
-      "away_team": "Egypt",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-22T17:00:00Z",
       "home_team": "Argentina",
@@ -519,6 +509,16 @@
       "away_group": "A",
       "venue": "Hard Rock Stadium",
       "city": "Miami",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T23:30:00Z",
+      "home_team": "Congo DR",
+      "away_team": "Uzbekistan",
+      "home_group": "D",
+      "away_group": "D",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
       "round": "Group Stage - 3"
     }
   ],
