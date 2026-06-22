@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-22T16:13:24Z",
+  "updated_at": "2026-06-22T19:54:56Z",
   "leaderboard": [
     {
       "colleague": "Mark",
       "team": "Austria",
       "team_id": 775,
-      "next_match_utc": "2026-06-22T17:00:00Z",
-      "next_match_vs": "Argentina",
-      "points": 5,
-      "played": 1,
+      "next_match_utc": "2026-06-28T02:00:00Z",
+      "next_match_vs": "Algeria",
+      "points": 3,
+      "played": 2,
       "wins": 1,
       "draws": 0,
       "goals_for": 3,
       "clean_sheets": 0,
-      "yellow_cards": 1,
+      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-22T17:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Austria",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-22T21:00:00Z",
       "home_team": "France",
@@ -519,6 +509,16 @@
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-28T02:00:00Z",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "home_group": "D",
+      "away_group": "B",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "round": "Group Stage - 3"
     }
   ],
