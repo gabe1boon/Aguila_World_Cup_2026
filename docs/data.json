@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T15:16:39Z",
+  "updated_at": "2026-06-23T17:27:35Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-23T17:00:00Z",
-      "home_team": "Portugal",
-      "away_team": "Uzbekistan",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-23T20:00:00Z",
       "home_team": "England",
