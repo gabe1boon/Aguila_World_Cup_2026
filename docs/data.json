@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:48:39Z",
+  "updated_at": "2026-06-24T00:04:18Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-23T23:00:00Z",
-      "home_team": "Panama",
-      "away_team": "Croatia",
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-24T02:00:00Z",
       "home_team": "Colombia",
