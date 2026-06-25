@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T23:14:44Z",
+  "updated_at": "2026-06-25T01:33:15Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-25T01:00:00Z",
-      "home_team": "Czechia",
-      "away_team": "Mexico",
-      "home_group": "",
-      "away_group": "B",
-      "venue": "Estadio Azteca",
-      "city": "Mexico City",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-25T01:00:00Z",
-      "home_team": "South Africa",
-      "away_team": "South Korea",
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-25T20:00:00Z",
       "home_team": "Ecuador",
