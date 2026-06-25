@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T06:15:33Z",
+  "updated_at": "2026-06-25T09:54:28Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -308,7 +308,7 @@
       "home_group": "B",
       "away_group": "A",
       "venue": "Estadio Akron",
-      "city": "Guadalajara",
+      "city": "Zapopan",
       "round": "Group Stage - 3"
     },
     {
@@ -400,6 +400,16 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-28T19:00:00Z",
+      "home_team": "South Africa",
+      "away_team": "Canada",
+      "home_group": "D",
+      "away_group": "B",
+      "venue": "SoFi Stadium",
+      "city": "",
+      "round": "Round of 32"
     }
   ],
   "fifa_groups": {
