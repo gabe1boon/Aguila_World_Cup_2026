@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:05:57Z",
+  "updated_at": "2026-06-25T23:54:28Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-25T23:00:00Z",
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-25T23:00:00Z",
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-26T02:00:00Z",
       "home_team": "T\u00fcrkiye",
