@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T04:19:18Z",
+  "updated_at": "2026-06-26T08:08:56Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -348,6 +348,36 @@
       "home_group": "D",
       "away_group": "B",
       "venue": "SoFi Stadium",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-06-29T17:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Japan",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-06-30T01:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-02T00:00:00Z",
+      "home_team": "USA",
+      "away_team": "Bosnia & Herzegovina",
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "",
       "city": "",
       "round": "Round of 32"
     }
