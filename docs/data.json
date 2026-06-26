@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T18:12:00Z",
+  "updated_at": "2026-06-26T20:19:35Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-26T19:00:00Z",
-      "home_team": "Senegal",
-      "away_team": "Iraq",
-      "home_group": "B",
-      "away_group": "C",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-26T19:00:00Z",
-      "home_team": "Norway",
-      "away_team": "France",
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-27T00:00:00Z",
       "home_team": "Uruguay",
