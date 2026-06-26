@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:54:28Z",
+  "updated_at": "2026-06-26T04:19:18Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-26T02:00:00Z",
-      "home_team": "T\u00fcrkiye",
-      "away_team": "USA",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "SoFi Stadium",
-      "city": "Los Angeles",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-26T02:00:00Z",
-      "home_team": "Paraguay",
-      "away_team": "Australia",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-26T19:00:00Z",
       "home_team": "Senegal",
