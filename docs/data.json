@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T01:30:03Z",
+  "updated_at": "2026-06-27T05:34:34Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -222,26 +222,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "Egypt",
-      "away_team": "Iran",
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 3"
-    },
-    {
       "date": "2026-06-27T21:00:00Z",
       "home_team": "Croatia",
       "away_team": "Ghana",
@@ -322,6 +302,16 @@
       "round": "Round of 32"
     },
     {
+      "date": "2026-06-29T20:30:00Z",
+      "home_team": "Germany",
+      "away_team": "Paraguay",
+      "home_group": "A",
+      "away_group": "D",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
       "date": "2026-06-30T01:00:00Z",
       "home_team": "Netherlands",
       "away_team": "Morocco",
@@ -332,10 +322,50 @@
       "round": "Round of 32"
     },
     {
+      "date": "2026-06-30T17:00:00Z",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
+      "home_group": "C",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-06-30T21:00:00Z",
+      "home_team": "France",
+      "away_team": "Sweden",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
       "date": "2026-07-02T00:00:00Z",
       "home_team": "USA",
       "away_team": "Bosnia & Herzegovina",
       "home_group": "B",
+      "away_group": "D",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-03T18:00:00Z",
+      "home_team": "Australia",
+      "away_team": "Egypt",
+      "home_group": "C",
+      "away_group": "C",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-03T22:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Cape Verde Islands",
+      "home_group": "A",
       "away_group": "D",
       "venue": "",
       "city": "",
