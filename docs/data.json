@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:39:03Z",
+  "updated_at": "2026-06-27T21:12:15Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-27T21:00:00Z",
-      "home_team": "Croatia",
-      "away_team": "Ghana",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-27T21:00:00Z",
-      "home_team": "Panama",
-      "away_team": "England",
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-27T23:30:00Z",
       "home_team": "Colombia",
