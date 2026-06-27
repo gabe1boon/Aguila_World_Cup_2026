@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T23:14:52Z",
+  "updated_at": "2026-06-27T01:30:03Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -221,26 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-27T00:00:00Z",
-      "home_team": "Uruguay",
-      "away_team": "Spain",
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "Estadio Akron",
-      "city": "Zapopan",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-27T00:00:00Z",
-      "home_team": "Cape Verde Islands",
-      "away_team": "Saudi Arabia",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-27T03:00:00Z",
       "home_team": "Egypt",
