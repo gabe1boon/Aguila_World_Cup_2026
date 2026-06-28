@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-28T05:05:03Z",
+  "updated_at": "2026-06-28T08:33:47Z",
   "leaderboard": [
     {
       "colleague": "Mark",
       "team": "Austria",
       "team_id": 775,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 6,
+      "next_match_utc": "2026-07-02T19:00:00Z",
+      "next_match_vs": "Spain",
+      "points": 8,
       "played": 3,
       "wins": 1,
       "draws": 1,
@@ -237,7 +237,7 @@
       "away_team": "Japan",
       "home_group": "A",
       "away_group": "B",
-      "venue": "",
+      "venue": "NRG Stadium",
       "city": "",
       "round": "Round of 32"
     },
@@ -247,7 +247,7 @@
       "away_team": "Paraguay",
       "home_group": "A",
       "away_group": "D",
-      "venue": "",
+      "venue": "Gillette Stadium",
       "city": "",
       "round": "Round of 32"
     },
@@ -257,8 +257,8 @@
       "away_team": "Morocco",
       "home_group": "A",
       "away_group": "A",
-      "venue": "",
-      "city": "",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
       "round": "Round of 32"
     },
     {
@@ -277,7 +277,7 @@
       "away_team": "Sweden",
       "home_group": "A",
       "away_group": "B",
-      "venue": "",
+      "venue": "MetLife Stadium",
       "city": "",
       "round": "Round of 32"
     },
@@ -287,8 +287,8 @@
       "away_team": "Ecuador",
       "home_group": "B",
       "away_group": "B",
-      "venue": "",
-      "city": "",
+      "venue": "Estadio Banorte",
+      "city": "Mexico City",
       "round": "Round of 32"
     },
     {
@@ -297,7 +297,7 @@
       "away_team": "Congo DR",
       "home_group": "A",
       "away_group": "D",
-      "venue": "",
+      "venue": "Mercedes-Benz Stadium",
       "city": "",
       "round": "Round of 32"
     },
@@ -307,7 +307,7 @@
       "away_team": "Senegal",
       "home_group": "A",
       "away_group": "B",
-      "venue": "",
+      "venue": "Lumen Field",
       "city": "",
       "round": "Round of 32"
     },
@@ -322,12 +322,32 @@
       "round": "Round of 32"
     },
     {
+      "date": "2026-07-02T19:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Austria",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "SoFi Stadium",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
       "date": "2026-07-02T23:00:00Z",
       "home_team": "Portugal",
       "away_team": "Croatia",
       "home_group": "A",
       "away_group": "A",
-      "venue": "",
+      "venue": "BMO Field",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-03T03:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Algeria",
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "BC Place",
       "city": "",
       "round": "Round of 32"
     },
@@ -347,7 +367,7 @@
       "away_team": "Cape Verde Islands",
       "home_group": "A",
       "away_group": "D",
-      "venue": "",
+      "venue": "Hard Rock Stadium",
       "city": "",
       "round": "Round of 32"
     },
@@ -357,7 +377,7 @@
       "away_team": "Ghana",
       "home_group": "A",
       "away_group": "C",
-      "venue": "",
+      "venue": "Arrowhead Stadium",
       "city": "",
       "round": "Round of 32"
     }
