@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T20:12:20Z",
+  "updated_at": "2026-06-29T21:53:51Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-29T20:30:00Z",
-      "home_team": "Germany",
-      "away_team": "Paraguay",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-30T01:00:00Z",
       "home_team": "Netherlands",
