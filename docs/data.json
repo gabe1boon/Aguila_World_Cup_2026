@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T10:10:23Z",
+  "updated_at": "2026-06-29T14:35:46Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -228,7 +228,7 @@
       "home_group": "A",
       "away_group": "B",
       "venue": "NRG Stadium",
-      "city": "",
+      "city": "Houston",
       "round": "Round of 32"
     },
     {
@@ -238,7 +238,7 @@
       "home_group": "A",
       "away_group": "D",
       "venue": "Gillette Stadium",
-      "city": "",
+      "city": "Boston",
       "round": "Round of 32"
     },
     {
@@ -257,8 +257,8 @@
       "away_team": "Norway",
       "home_group": "C",
       "away_group": "B",
-      "venue": "",
-      "city": "",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
       "round": "Round of 32"
     },
     {
@@ -268,7 +268,7 @@
       "home_group": "A",
       "away_group": "B",
       "venue": "MetLife Stadium",
-      "city": "",
+      "city": "New-York",
       "round": "Round of 32"
     },
     {
@@ -277,7 +277,7 @@
       "away_team": "Ecuador",
       "home_group": "B",
       "away_group": "B",
-      "venue": "Estadio Banorte",
+      "venue": "Estadio Azteca",
       "city": "Mexico City",
       "round": "Round of 32"
     },
@@ -288,7 +288,7 @@
       "home_group": "A",
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
-      "city": "",
+      "city": "Atlanta",
       "round": "Round of 32"
     },
     {
@@ -298,7 +298,7 @@
       "home_group": "A",
       "away_group": "B",
       "venue": "Lumen Field",
-      "city": "",
+      "city": "Seattle",
       "round": "Round of 32"
     },
     {
@@ -307,8 +307,8 @@
       "away_team": "Bosnia & Herzegovina",
       "home_group": "B",
       "away_group": "D",
-      "venue": "",
-      "city": "",
+      "venue": "Levi's Stadium",
+      "city": "San-Francisco",
       "round": "Round of 32"
     },
     {
@@ -318,7 +318,7 @@
       "home_group": "A",
       "away_group": "B",
       "venue": "SoFi Stadium",
-      "city": "",
+      "city": "Los Angeles",
       "round": "Round of 32"
     },
     {
@@ -328,7 +328,7 @@
       "home_group": "A",
       "away_group": "A",
       "venue": "BMO Field",
-      "city": "",
+      "city": "Toronto",
       "round": "Round of 32"
     },
     {
@@ -338,7 +338,7 @@
       "home_group": "B",
       "away_group": "D",
       "venue": "BC Place",
-      "city": "",
+      "city": "Vancouver",
       "round": "Round of 32"
     },
     {
@@ -347,8 +347,8 @@
       "away_team": "Egypt",
       "home_group": "C",
       "away_group": "C",
-      "venue": "",
-      "city": "",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
       "round": "Round of 32"
     },
     {
@@ -358,7 +358,7 @@
       "home_group": "A",
       "away_group": "D",
       "venue": "Hard Rock Stadium",
-      "city": "",
+      "city": "Miami",
       "round": "Round of 32"
     },
     {
@@ -368,7 +368,7 @@
       "home_group": "A",
       "away_group": "C",
       "venue": "Arrowhead Stadium",
-      "city": "",
+      "city": "Kansas City",
       "round": "Round of 32"
     }
   ],
