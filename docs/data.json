@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:35:46Z",
+  "updated_at": "2026-06-29T17:44:35Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-29T17:00:00Z",
-      "home_team": "Brazil",
-      "away_team": "Japan",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-29T20:30:00Z",
       "home_team": "Germany",
