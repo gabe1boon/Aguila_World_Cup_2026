@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:05:12Z",
+  "updated_at": "2026-06-30T01:32:13Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T01:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-30T17:00:00Z",
       "home_team": "Ivory Coast",
