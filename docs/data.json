@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T01:32:13Z",
+  "updated_at": "2026-06-30T06:20:08Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -247,7 +247,7 @@
       "away_team": "Ecuador",
       "home_group": "B",
       "away_group": "B",
-      "venue": "Estadio Azteca",
+      "venue": "Estadio Banorte",
       "city": "Mexico City",
       "round": "Round of 32"
     },
@@ -340,6 +340,16 @@
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-04T17:00:00Z",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Round of 16"
     }
   ],
   "fifa_groups": {
