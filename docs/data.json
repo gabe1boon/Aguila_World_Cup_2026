@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:37:01Z",
+  "updated_at": "2026-06-30T18:05:06Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T17:00:00Z",
-      "home_team": "Ivory Coast",
-      "away_team": "Norway",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-30T21:00:00Z",
       "home_team": "France",
