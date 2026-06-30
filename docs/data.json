@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:30:52Z",
+  "updated_at": "2026-06-30T22:18:54Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T21:00:00Z",
-      "home_team": "France",
-      "away_team": "Sweden",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "MetLife Stadium",
-      "city": "New-York",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-01T01:00:00Z",
       "home_team": "Mexico",
