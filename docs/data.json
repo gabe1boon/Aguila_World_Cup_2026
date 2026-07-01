@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T15:21:32Z",
+  "updated_at": "2026-07-01T17:30:14Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-01T16:00:00Z",
-      "home_team": "England",
-      "away_team": "Congo DR",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-01T20:00:00Z",
       "home_team": "Belgium",
