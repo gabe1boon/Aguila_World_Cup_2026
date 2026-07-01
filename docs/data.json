@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T04:42:21Z",
+  "updated_at": "2026-07-01T08:52:24Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -319,6 +319,16 @@
       "away_group": "A",
       "venue": "NRG Stadium",
       "city": "Houston",
+      "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-04T21:00:00Z",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "home_group": "D",
+      "away_group": "A",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
       "round": "Round of 16"
     },
     {
