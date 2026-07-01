@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T17:30:14Z",
+  "updated_at": "2026-07-01T20:04:36Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-01T20:00:00Z",
-      "home_team": "Belgium",
-      "away_team": "Senegal",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-02T00:00:00Z",
       "home_team": "USA",
