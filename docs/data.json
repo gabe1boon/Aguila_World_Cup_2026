@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T23:52:28Z",
+  "updated_at": "2026-07-02T04:09:26Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-02T00:00:00Z",
-      "home_team": "USA",
-      "away_team": "Bosnia & Herzegovina",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "San-Francisco",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-02T19:00:00Z",
       "home_team": "Spain",
