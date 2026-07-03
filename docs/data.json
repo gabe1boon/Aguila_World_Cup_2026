@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T22:39:13Z",
+  "updated_at": "2026-07-03T00:13:51Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-02T23:00:00Z",
-      "home_team": "Portugal",
-      "away_team": "Croatia",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-03T03:00:00Z",
       "home_team": "Switzerland",
