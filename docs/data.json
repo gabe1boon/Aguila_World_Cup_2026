@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T17:40:23Z",
+  "updated_at": "2026-07-03T19:39:47Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-03T18:00:00Z",
-      "home_team": "Australia",
-      "away_team": "Egypt",
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-03T22:00:00Z",
       "home_team": "Argentina",
