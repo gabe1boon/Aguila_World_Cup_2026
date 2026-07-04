@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:46:20Z",
+  "updated_at": "2026-07-04T21:06:38Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-04T21:00:00Z",
-      "home_team": "Paraguay",
-      "away_team": "France",
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-05T20:00:00Z",
       "home_team": "Brazil",
