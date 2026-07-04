@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T00:12:12Z",
+  "updated_at": "2026-07-04T04:21:49Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-04T01:30:00Z",
-      "home_team": "Colombia",
-      "away_team": "Ghana",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-04T17:00:00Z",
       "home_team": "Canada",
