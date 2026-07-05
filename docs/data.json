@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T04:42:19Z",
+  "updated_at": "2026-07-05T08:06:36Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -280,6 +280,16 @@
       "venue": "",
       "city": "",
       "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-09T20:00:00Z",
+      "home_team": "France",
+      "away_team": "Morocco",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Quarter-finals"
     }
   ],
   "fifa_groups": {
