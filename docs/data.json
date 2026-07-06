@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T17:48:35Z",
+  "updated_at": "2026-07-06T20:07:41Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-06T19:00:00Z",
-      "home_team": "Portugal",
-      "away_team": "Spain",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-07T00:00:00Z",
       "home_team": "USA",
