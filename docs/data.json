@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:09:18Z",
+  "updated_at": "2026-07-08T01:02:15Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -249,6 +249,16 @@
       "away_group": "A",
       "venue": "Hard Rock Stadium",
       "city": "Miami",
+      "round": "Quarter-finals"
+    },
+    {
+      "date": "2026-07-12T01:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
       "round": "Quarter-finals"
     }
   ],
