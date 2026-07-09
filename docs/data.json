@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T18:19:14Z",
+  "updated_at": "2026-07-09T20:22:57Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-09T20:00:00Z",
-      "home_team": "France",
-      "away_team": "Morocco",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Quarter-finals"
-    },
     {
       "date": "2026-07-10T19:00:00Z",
       "home_team": "Spain",
