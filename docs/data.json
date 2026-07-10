@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T21:12:46Z",
+  "updated_at": "2026-07-10T22:33:37Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -240,6 +240,16 @@
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "round": "Quarter-finals"
+    },
+    {
+      "date": "2026-07-14T19:00:00Z",
+      "home_team": "France",
+      "away_team": "Spain",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Semi-finals"
     }
   ],
   "fifa_groups": {
