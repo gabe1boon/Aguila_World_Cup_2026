@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T20:24:24Z",
+  "updated_at": "2026-07-11T21:24:39Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-11T21:00:00Z",
-      "home_team": "Norway",
-      "away_team": "England",
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami",
-      "round": "Quarter-finals"
-    },
     {
       "date": "2026-07-12T01:00:00Z",
       "home_team": "Argentina",
