@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:32:10Z",
+  "updated_at": "2026-07-12T03:37:16Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-12T01:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Switzerland",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Quarter-finals"
-    },
     {
       "date": "2026-07-14T19:00:00Z",
       "home_team": "France",
