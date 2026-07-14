@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T17:42:10Z",
+  "updated_at": "2026-07-14T19:36:46Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-14T19:00:00Z",
-      "home_team": "France",
-      "away_team": "Spain",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "",
-      "city": "",
-      "round": "Semi-finals"
-    },
     {
       "date": "2026-07-15T19:00:00Z",
       "home_team": "England",
