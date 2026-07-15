@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T17:49:02Z",
+  "updated_at": "2026-07-15T19:22:36Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -220,18 +220,7 @@
       "team": "Uzbekistan"
     }
   ],
-  "upcoming_fixtures": [
-    {
-      "date": "2026-07-15T19:00:00Z",
-      "home_team": "England",
-      "away_team": "Argentina",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "round": "Semi-finals"
-    }
-  ],
+  "upcoming_fixtures": [],
   "fifa_groups": {
     "A": [
       "Argentina",
