@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T20:22:08Z",
+  "updated_at": "2026-07-18T21:26:24Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -221,16 +221,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-18T21:00:00Z",
-      "home_team": "France",
-      "away_team": "England",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Hard Rock Stadium, Miami Garden",
-      "city": "Miami",
-      "round": "3rd Place Final"
-    },
     {
       "date": "2026-07-19T19:00:00Z",
       "home_team": "Spain",
