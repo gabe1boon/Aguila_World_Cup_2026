@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:31:54Z",
+  "updated_at": "2026-07-19T20:09:11Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -220,18 +220,7 @@
       "team": "Uzbekistan"
     }
   ],
-  "upcoming_fixtures": [
-    {
-      "date": "2026-07-19T19:00:00Z",
-      "home_team": "Spain",
-      "away_team": "Argentina",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
-      "round": "Final"
-    }
-  ],
+  "upcoming_fixtures": [],
   "fifa_groups": {
     "A": [
       "Argentina",
